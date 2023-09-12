@@ -12,3 +12,5 @@ Analyse d'un jeu de donnees pour détecter la fraude bancaire dans les transacti
 
 - **Visualisation avec Power BI :** Utilisez Power BI pour créer des visualisations percutantes qui permettent une analyse approfondie des données de fraude bancaire.
 
+<img src='image.png' alt='image of firt page'>
+
