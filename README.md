@@ -1,4 +1,4 @@
-### Détection de Fraude Bancaire avec Business Intelligence
+## Détection de Fraude Bancaire avec Business Intelligence
 
 Analyse d'un jeu de donnees pour détecter la fraude bancaire dans les transactions mobiles grâce aux outils de Business Intelligence BI.
 
