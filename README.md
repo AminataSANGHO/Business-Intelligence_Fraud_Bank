@@ -1,14 +1,14 @@
-# FraudBank_BigData
-A project on big data about financial fraud
+**Détection de Fraude Bancaire avec Business Intelligence**
 
+Analyse d'un jeu de donnees pour détecter la fraude bancaire dans les transactions mobiles grâce aux outils de Business Intelligence BI.
 
-*Links of some interrestings datasets 
+**Fonctionnalités clés :**
 
-https://www.kaggle.com/datasets/ealaxi/paysim1
+- **Jeu de données Kaggle :** Utilisez des données réelles provenant de Kaggle (https://www.kaggle.com/datasets/ealaxi/paysim1) pour mettre en place votre solution.
 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- **Processus ETL (Extraction, Transformation et Chargement) :** Transformez les données brutes en informations exploitables à l'aide d'un processus ETL efficace.
 
-https://www.kaggle.com/datasets/bannourchaker/frauddetection
+- **Data Mart en Étoile :** Créez un Data Mart en étoile pour une modélisation de données optimale, offrant une vue claire et structurée de vos données.
 
-https://www.kaggle.com/datasets/aryanrastogi7767/ecommerce-fraud-data
+- **Visualisation avec Power BI :** Utilisez Power BI pour créer des visualisations percutantes qui permettent une analyse approfondie des données de fraude bancaire.
 
